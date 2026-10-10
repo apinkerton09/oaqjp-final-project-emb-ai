@@ -1,2 +1,3 @@
-# coding-project-template
-This repo is for the practice project which is to be based on Embedded AI libraries. 
+# Emotion Detection Application
+
+This project is an Emotion Detection application developed using Python, Flask, and the Watson NLP library.
